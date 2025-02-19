@@ -7,7 +7,7 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
 ## 🚀 About Me
 
 - I'm currently a Student of [2600](https://ecole2600.com).
-- I write, articles and techniques on my [website](https://google.com)
+- I write, articles and techniques on my [website](https://google.com) (soon..)
 
 
 ## Softwares
