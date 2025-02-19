@@ -10,7 +10,7 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
 - I write, articles and techniques on my [website](https://google.com)
 
 
-## My Softwares
+## Softwares
 - [TYPHOON](https://github.com/DK27ss/TYPHOON-2)
 - [DYNAMITE](https://github.com/DK27ss/Dynamite)
 - [RVSL4](https://github.com/DK27ss/RVSL4)
@@ -27,6 +27,11 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
 - NodeGuardians Soon..
 
 ## 🌱 Currently Exploring
+
+- Learn about FIVE EYES & Snowden files (OCCRP)
+  - Intelligence services Methods used
+ 
+- Learn about APT actors
 
 - Learn advanced Red Team strategies and methodologies. [TRADITIONAL PENTEST]
   - AV Evasion
