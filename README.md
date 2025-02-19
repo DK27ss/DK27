@@ -35,7 +35,7 @@ I'm also interested in quantum technology.. ^^
  
 - Learn about APT actors
 
-- Learn about communication interception with Dongle & HackRF (SDRAngel - SharpSDR) [SIGINT / ROEM]
+- Learn about communication interception with Dongle & HackRF (SDRAngel - SharpSDR - GPredict) [SIGINT / ROEM]
   - ADSB
   - ATC
   - ACARS
