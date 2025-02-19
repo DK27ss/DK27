@@ -33,7 +33,7 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
  
 - Learn about APT actors
 
-- Learn advanced Red Team strategies and methodologies. [TRADITIONAL PENTEST]
+- Learn advanced Red Team strategies and methodologies. [Traditional PENTEST]
   - AV Evasion
   - C2 Persistence
   - Privilege Escalation
