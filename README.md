@@ -19,16 +19,16 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
 [![Star Skills](https://skillicons.dev/icons?i=python,c,rust)](https://skillicons.dev)
 
 ## Skills
-[![Root-Me](https://www.root-me.org/StarPalace?inc=statistiques)
-[![HackTheBox] Soon..
-[![YesWeHack] Soon..
-[![HackerOne] Soon..
-[![CyberDefenders] Soon..
-[![NodeGuardians] Soon..
+[Root-Me](https://www.root-me.org/StarPalace?inc=statistiques)
+[HackTheBox] Soon..
+[YesWeHack] Soon..
+[HackerOne] Soon..
+[CyberDefenders] Soon..
+[NodeGuardians] Soon..
 
 ## 🌱 Currently Exploring
 
->> - Learn advanced Red Team strategies and methodologies. [TRADITIONAL PENTEST]
+- Learn advanced Red Team strategies and methodologies. [TRADITIONAL PENTEST]
       - AV Evasion
       - C2 Persistence
       - Privilege Escalation
@@ -36,7 +36,7 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
       - LotL
       - Supply Chain
 
->> - Learn advanced Red Team strategies and methodologies. [DeFi PENTEST]
+- Learn advanced Red Team strategies and methodologies. [DeFi PENTEST]
    - Vulnerability Identification
       - Oracle Price Manipulation
       - Reentrancy
