@@ -35,6 +35,12 @@ I'm also interested in quantum technology.. ^^
  
 - Learn about APT actors
 
+- Learn about communication interception with Dongle & HackRF (SDRAngel - SharpSDR) [SIGINT / ROEM]
+  - ADSB
+  - ATC
+  - ACARS
+  - DATV (telemetry)
+
 - Learn advanced Red Team strategies and methodologies. [Traditional PENTEST]
   - AV Evasion
   - C2 Persistence
