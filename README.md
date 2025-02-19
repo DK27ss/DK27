@@ -21,7 +21,7 @@ I'm also interested in quantum technology.. ^^
 [![Star Skills](https://skillicons.dev/icons?i=python,solidity,c)](https://skillicons.dev)
 
 ## Skills
-- [Root-Me](https://www.root-me.org/StarPalace?inc=statistiques) [StarPalace]
+- [Root-Me](https://www.root-me.org/StarPalace?inc=statistiques) (StarPalace)
 - [HackTheBox](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
 - [YesWeHack](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
 - [HackerOne](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
