@@ -39,7 +39,7 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
   - Privilege Escalation
   - Lateral Pivot
   - Data Exfiltration
-  - LotL
+  - LotL (Living-off-the-Land)
   - Supply Chain
 
 - Learn advanced Red Team strategies and methodologies. [DeFi PENTEST]
