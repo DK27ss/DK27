@@ -20,11 +20,11 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
 
 ## Skills
 - [Root-Me](https://www.root-me.org/StarPalace?inc=statistiques)
-- [HackTheBox] Soon..
-- [YesWeHack] Soon..
-- [HackerOne] Soon..
-- [CyberDefenders] Soon..
-- [NodeGuardians] Soon..
+- [HackTheBox](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
+- [YesWeHack](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
+- [HackerOne](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
+- [CyberDefenders](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
+- [NodeGuardians](https://www.root-me.org/StarPalace?inc=statistiques) Soon..
 
 ## 🌱 Currently Exploring
 
