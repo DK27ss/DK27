@@ -39,6 +39,7 @@ I'm also interested in quantum technology.. ^^
   - ADSB
   - ATC
   - ACARS
+  - AWACS
   - DATV (telemetry)
 
 - Learn advanced Red Team strategies and methodologies. [Traditional PENTEST]
