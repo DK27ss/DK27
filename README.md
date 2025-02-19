@@ -38,6 +38,7 @@ I'm a passionate Cybersecurity student at Ecole 2600, motivated by a curiosity f
   - C2 Persistence
   - Privilege Escalation
   - Lateral Pivot
+  - Data Exfiltration
   - LotL
   - Supply Chain
 
